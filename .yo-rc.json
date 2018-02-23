@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Sune Fengel",
+      "authorEmail": "fengel@gmail.com",
+      "authorUrl": "fengel.com"
+    }
+  }
+}
