@@ -4,7 +4,7 @@
   "description": "A clean boilerplate to generate a classic web setup",
   "main": "gulpfile.js",
   "homepage":
-    "https://bitbucket.org/insilicoconsulting/danske-bank-personal-website#readme",
+    "https://github.com/fengelz/generator-basic-html-js-scss",
   "engines": {
     "node": "5",
     "npm": "3"

@@ -5,6 +5,6 @@ This is meant to be the simplest of simple setups for anyone needing a classic f
 wants to use sass and a build setup that's expandable
 
     Clone repo
-    Run 'npm-install'
+    Run 'npm-install' or 'yarn'
     Run 'gulp'
     Extend build setup at will with bower, react, jQuery, whatevs.js
