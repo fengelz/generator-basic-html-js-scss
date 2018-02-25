@@ -1,6 +1,6 @@
 {
   "name": "generator-basic-html-js-css",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A generator for a clean boilerplate to generate a classic web setup",
   "homepage": "https://github.com/fengelz/generator-basic-html-js-scss",
   "author": {
