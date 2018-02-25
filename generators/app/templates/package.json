@@ -9,10 +9,6 @@
     "node": "5",
     "npm": "3"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/fengelz/bp-html-sass-assets.git"
-  },
   "author": "Sune Fengel",
   "license": "MIT",
   "browserify": {},
