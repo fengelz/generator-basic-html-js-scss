@@ -12,9 +12,6 @@
   "author": "Sune Fengel",
   "license": "MIT",
   "browserify": {},
-  "browser": {
-    "gsap": "./node_modules/gsap/src/minified/TweenMax.min.js"
-  },
   "dependencies": {
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.1",

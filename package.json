@@ -1,12 +1,12 @@
 {
-  "name": "generator-basic-html-js-css",
+  "name": "generator-basic-html-js-scss",
   "version": "0.0.1",
   "description": "A generator for a clean boilerplate to generate a classic web setup",
   "homepage": "https://github.com/fengelz/generator-basic-html-js-scss",
   "author": {
     "name": "Sune Fengel",
     "email": "fengel@gmail.com",
-    "url": "fengel.com"
+    "url": "http://fengel.com"
   },
   "files": [
     "generators"
@@ -78,6 +78,6 @@
       "prettier"
     ]
   },
-  "repository": "fengelz/generator-basic-html-js-css",
+  "repository": "fengelz/generator-basic-html-js-scss",
   "license": "MIT"
 }
