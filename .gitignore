@@ -1,3 +1,6 @@
-node_modules
+.DS_Storenode_modules
 coverage
 project
+.DS_Store
+.vscode/
+node_modules
